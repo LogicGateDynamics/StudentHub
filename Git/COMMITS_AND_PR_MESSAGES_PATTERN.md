@@ -1,4 +1,4 @@
-Tipos de Pull Request e Commits: 
+# Tipos de Pull Request e Commits: 
 1. 🐞 fix
 Corrige um problema no sistema.
 
