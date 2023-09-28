@@ -18,6 +18,7 @@ Mudança para a branch homolog e ambiente de homolog
 Mudança para branch homolog e main (deve sempre ser feito para ambos) em algo que não mude código em produção, ex: Documentação, testes ou código de ensaios quando estes não serão futuramente encoporados em release_candidate ou release. NUNCA PODE CONTER ARQUIVOS QUE MODIFIQUEM O SISTEMA OU FIQUEM NA MESMA PÁGINA.
 
 🔖 Outros tipos suportados
+
 7. 📦 build
 Mudanças que afetam o processo de build do sistema, como adição de bibliotecas e dependências, mudanças de versão, etc.
 Exemplo: adicionar/remover/atualizar npm; mudanças no NUGET;
