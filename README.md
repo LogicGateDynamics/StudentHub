@@ -8,3 +8,10 @@
 
 ## Doc de Referência:
 [Doc de Referência](./Docs/E.A.E-ESTUDO_DE_CASO.pdf)
+
+## Business Model:
+[Business Model](./Docs/BM_Canvas.pdf)
+
+## Fluxograma: 
+[Fluxograma](./Docs/FLUXOGRAMA.pdf)
+
